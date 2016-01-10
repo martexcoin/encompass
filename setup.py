@@ -132,6 +132,7 @@ setup(
         'chainkey.chains.litecoin',
         'chainkey.chains.viacoin',
         'chainkey.chains.dash',
+        'chainkey.chains.martexcoin',
         'chainkey.chains.peercoin',
         'chainkey.chains.dogecoin',
         'chainkey.chains.blackcoin',
