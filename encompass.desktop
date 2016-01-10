@@ -1,0 +1,17 @@
+# If you want electrum to appear in a linux app launcher ("start menu"), install this by doing:
+# sudo desktop-file-install electrum.desktop
+
+[Desktop Entry]
+Comment=Lightweight Multi-Coin Client
+Exec=encompass %u
+GenericName[en_US]=Encompass
+GenericName=Encompass
+Icon=/usr/share/app-install/icons/encompass.png
+Name[en_US]=Encompass Multi-Coin Wallet
+Name=Encompass Multi-Coin Wallet
+Categories=Network;
+StartupNotify=false
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/bitcoin
+

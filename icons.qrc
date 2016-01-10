@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>icons/encompass.png</file>
+    <file>icons/key.png</file>
+    <file>icons/seed.png</file>
+    <file>icons/hot_seed.png</file>
+    <file>icons/cold_seed.png</file>
+    <file>icons/switchgui.png</file>
+    <file>icons/electrum_light_icon.png</file>
+    <file>icons/electrum_dark_icon.png</file>
+    <file>icons/network.png</file>
+    <file>icons/dark_background.png</file>
+    <file>icons/trustedcoin.png</file>
+    <file>icons/coin_blk.png</file>
+    <file>icons/coin_btc.png</file>
+    <file>icons/coin_clams.png</file>
+    <file>icons/coin_dash.png</file>
+    <file>icons/coin_doge.png</file>
+    <file>icons/coin_ftc.png</file>
+    <file>icons/coin_grs.png</file>
+    <file>icons/coin_ltc.png</file>
+    <file>icons/coin_mzc.png</file>
+    <file>icons/coin_nmc.png</file>
+    <file>icons/coin_ppc.png</file>
+    <file>icons/coin_start.png</file>
+    <file>icons/coin_via.png</file>
+    <file>icons/qrcode.png</file>
+  </qresource>
+</RCC>
